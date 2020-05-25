@@ -1,5 +1,5 @@
 ### What it do
-Displays Random encouragement when you  click on the screen && every updates every 30 seconds
+Displays Random encouragement when you  click on the screen && updates every 30 seconds
 
 ## Available Scripts
 
